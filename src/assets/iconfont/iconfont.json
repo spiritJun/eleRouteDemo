@@ -1,0 +1,804 @@
+{
+  "data": [
+    {
+      "name": "盘点申请",
+      "class": "iconfont iconpandianshenqing"
+    },
+    {
+      "name": "积分商城",
+      "class": "iconfont iconjifenshangcheng"
+    },
+    {
+      "name": "保险管理",
+      "class": "iconfont iconbaoxianguanli"
+    },
+    {
+      "name": "营销方案",
+      "class": "iconfont iconyingxiaofangan"
+    },
+    {
+      "name": "营销汇总",
+      "class": "iconfont iconyingyehuizong"
+    },
+    {
+      "name": "统计",
+      "class": "iconfont icontongji"
+    },
+    {
+      "name": "资金转账",
+      "class": "iconfont iconzijinzhuanzhang"
+    },
+    {
+      "name": "服务管理",
+      "class": "iconfont iconfuwuguanli"
+    },
+    {
+      "name": "财务管理",
+      "class": "iconfont iconcaiwu"
+    },
+    {
+      "name": "报表",
+      "class": "iconfont iconbaobiao"
+    },
+    {
+      "name": "预算",
+      "class": "iconfont iconyusuanshenpi"
+    },
+    {
+      "name": "报销",
+      "class": "iconfont iconbaoxiao"
+    },
+    {
+      "name": "车辆",
+      "class": "iconfont iconcheliang"
+    },
+    {
+      "name": "资金",
+      "class": "iconfont iconbonuspoints"
+    },
+    {
+      "name": "云下载",
+      "class": "iconfont iconclouddownloadyunxiazai"
+    },
+    {
+      "name": "承接",
+      "class": "iconfont iconchengjie"
+    },
+    {
+      "name": "列表",
+      "class": "iconfont iconliebiao"
+    },
+    {
+      "name": "世界",
+      "class": "iconfont iconshijie"
+    },
+    {
+      "name": "数据看板",
+      "class": "iconfont iconshujukanban"
+    },
+    {
+      "name": "基础管理",
+      "class": "iconfont iconjichuguanli"
+    },
+    {
+      "name": "合作伙伴",
+      "class": "iconfont iconhezuohuobanmiyueguanli"
+    },
+    {
+      "name": "入口",
+      "class": "iconfont iconicon_rukou"
+    },
+    {
+      "name": "订单管理",
+      "class": "iconfont icondingdanguanli"
+    },
+    {
+      "name": "运单管理",
+      "class": "iconfont iconyundanguanli"
+    },
+    {
+      "name": "统计报表",
+      "class": "iconfont icontongjibaobiao"
+    },
+    {
+      "name": "待发货",
+      "class": "iconfont icondaifahuo"
+    },
+    {
+      "name": "公司管理",
+      "class": "iconfont icongongsiguanli"
+    },
+    {
+      "name": "角色管理",
+      "class": "iconfont iconjiaoseguanli"
+    },
+    {
+      "name": "货主端运单打印",
+      "class": "iconfont iconhuozhuduanyundandayin"
+    },
+    {
+      "name": "货主端询报价",
+      "class": "iconfont iconhuozhuduanxunbaojia"
+    },
+    {
+      "name": "货主端我的云里端",
+      "class": "iconfont iconhuozhuduanwodeyunliduan"
+    },
+    {
+      "name": "货主端我的快递单",
+      "class": "iconfont iconhuozhuduanwodekuaididan"
+    },
+    {
+      "name": "货主端我的运单",
+      "class": "iconfont iconhuozhuduanwodeyundan"
+    },
+    {
+      "name": "货主端快递担保",
+      "class": "iconfont iconhuozhuduankuaididanbao"
+    },
+    {
+      "name": "货主端设置",
+      "class": "iconfont iconhuozhuduanshezhi"
+    },
+    {
+      "name": "货主端首页",
+      "class": "iconfont iconhuozhuduanshouye"
+    },
+    {
+      "name": "货主端基础数据",
+      "class": "iconfont iconhuozhuduanjichushuju"
+    },
+    {
+      "name": "货主端查询路线",
+      "class": "iconfont iconhuozhuduanchaxunxianlu"
+    },
+    {
+      "name": "货主端加快递",
+      "class": "iconfont iconhuozhuduanjiakuaidi"
+    },
+    {
+      "name": "货主端运单导入",
+      "class": "iconfont iconhuowuduanyundandaoru"
+    },
+    {
+      "name": "货主端在线发货",
+      "class": "iconfont iconhuowuduanzaixianfahuo"
+    },
+    {
+      "name": "承运商大屏管理",
+      "class": "iconfont iconchengyunshangdapingguanli"
+    },
+    {
+      "name": "承运商询报价",
+      "class": "iconfont iconchengyunshangxunbaojia"
+    },
+    {
+      "name": "承运商我的运单",
+      "class": "iconfont iconchengyunshangwodeyundan"
+    },
+    {
+      "name": "承运商首页",
+      "class": "iconfont iconchengyunshangshouye"
+    },
+    {
+      "name": "承运商运单查询",
+      "class": "iconfont iconchengyunshangyundanchaxun"
+    },
+    {
+      "name": "承运商我的执行",
+      "class": "iconfont iconchengyunshangwodezhihang"
+    },
+    {
+      "name": "承运商线路价格",
+      "class": "iconfont iconchengyunshangxianlujiage"
+    },
+    {
+      "name": "承运商我的订单",
+      "class": "iconfont iconchengyunshangwodedingdan"
+    },
+    {
+      "name": "承运商我的跟踪",
+      "class": "iconfont iconchengyunshangwodegenzong"
+    },
+    {
+      "name": "承运商基础数据",
+      "class": "iconfont iconchengyunshangjichushuju"
+    },
+    {
+      "name": "物流",
+      "class": "iconfont iconwuliu"
+    },
+    {
+      "name": "物流3",
+      "class": "iconfont iconwuliu-3"
+    },
+    {
+      "name": "物流2",
+      "class": "iconfont iconwuliu-2"
+    },
+    {
+      "name": "数据1",
+      "class": "iconfont iconshuju"
+    },
+    {
+      "name": "数据2",
+      "class": "iconfont iconshuju-2"
+    },
+    {
+      "name": "线性红包",
+      "class": "iconfont iconhongbao-xianxing"
+    },
+    {
+      "name": "银行卡红包",
+      "class": "iconfont iconyinhangqia-xianxing"
+    },
+    {
+      "name": "皮肤",
+      "class": "iconfont iconpifuzhuti-xianxing"
+    },
+    {
+      "name": "用户资料",
+      "class": "iconfont iconyonghuziliao-xianxing"
+    },
+    {
+      "name": "计算器",
+      "class": "iconfont iconjisuanqilishuai-xianxing-xi"
+    },
+    {
+      "name": "日历",
+      "class": "iconfont iconrili-xianxing-xi"
+    },
+    {
+      "name": "退款-细",
+      "class": "iconfont icontuikuan-xi"
+    },
+    {
+      "name": "还款-线性",
+      "class": "iconfont iconhuankuan-xianxing"
+    },
+    {
+      "name": "贷款-线性",
+      "class": "iconfont icondaikuan-xianxing"
+    },
+    {
+      "name": "店铺-线性",
+      "class": "iconfont icondianpu-xianxing"
+    },
+    {
+      "name": "地图",
+      "class": "iconfont iconditu"
+    },
+    {
+      "name": "指南",
+      "class": "iconfont iconzhinanzhidao-xianxing"
+    },
+    {
+      "name": "折线图",
+      "class": "iconfont iconzhexiantu-xianxing"
+    },
+    {
+      "name": "条形图",
+      "class": "iconfont icontiaoxingtu-xianxing"
+    },
+    {
+      "name": "报表",
+      "class": "iconfont iconbaobiao-xianxing"
+    },
+    {
+      "name": "饼图",
+      "class": "iconfont iconbingtu-xianxing"
+    },
+    {
+      "name": "雷达",
+      "class": "iconfont iconleidatance"
+    },
+    {
+      "name": "监控",
+      "class": "iconfont iconjiankongshexiangtou"
+    },
+    {
+      "name": "拓点图",
+      "class": "iconfont icontuodiantu"
+    },
+    {
+      "name": "监控1",
+      "class": "iconfont iconjiankongshexiangtou-xianxing"
+    },
+    {
+      "name": "定位",
+      "class": "iconfont icondingwei"
+    },
+    {
+      "name": "位置",
+      "class": "iconfont iconweizhi-xianxing"
+    },
+    {
+      "name": "PDA手持工作设备",
+      "class": "iconfont iconPDAshouchigongzuoshebei"
+    },
+    {
+      "name": "PC台式机",
+      "class": "iconfont iconPCtaishiji"
+    },
+    {
+      "name": "Phone手机",
+      "class": "iconfont iconPhoneshouji"
+    },
+    {
+      "name": "施工-线性",
+      "class": "iconfont iconanzhuangshigong-xianxing"
+    },
+    {
+      "name": "扫描",
+      "class": "iconfont iconsaomiao"
+    },
+    {
+      "name": "图片-线性",
+      "class": "iconfont icontupian-xianxing"
+    },
+    {
+      "name": "拍照-线性",
+      "class": "iconfont iconpaizhao-xianxing"
+    },
+    {
+      "name": "键盘-线性",
+      "class": "iconfont iconjianpan-xianxing"
+    },
+    {
+      "name": "附件",
+      "class": "iconfont iconfujian"
+    },
+    {
+      "name": "用户线性",
+      "class": "iconfont iconyonghu-xianxing"
+    },
+    {
+      "name": "保存-线性",
+      "class": "iconfont iconbaocun-xianxing"
+    },
+    {
+      "name": "语音消息",
+      "class": "iconfont iconshengboyuyinxiaoxi"
+    },
+    {
+      "name": "时间-线性",
+      "class": "iconfont iconshijian-xianxing"
+    },
+    {
+      "name": "收藏-线性",
+      "class": "iconfont iconshoucang-xianxing"
+    },
+    {
+      "name": "麦克风-线性",
+      "class": "iconfont iconmaikefeng-xianxing"
+    },
+    {
+      "name": "喇叭-线性",
+      "class": "iconfont iconlaba-xianxing"
+    },
+    {
+      "name": "铃铛-线性",
+      "class": "iconfont iconlingdang-xianxing"
+    },
+    {
+      "name": "信-线性",
+      "class": "iconfont iconxin-xianxing"
+    },
+    {
+      "name": "对话-线",
+      "class": "iconfont iconliaotianduihua-xianxing"
+    },
+    {
+      "name": "电话-线性圆框",
+      "class": "iconfont icondianhua-xianxingyuankuang"
+    },
+    {
+      "name": "首页-线性",
+      "class": "iconfont iconshouye-xianxing"
+    },
+    {
+      "name": "设置-线性",
+      "class": "iconfont iconshezhi-xianxing"
+    },
+    {
+      "name": "搜索-线性",
+      "class": "iconfont iconsousuo-xianxing"
+    },
+    {
+      "name": "利率-线性",
+      "class": "iconfont iconjisuanqilishuai-xianxing"
+    },
+    {
+      "name": "退款",
+      "class": "iconfont icontuikuan"
+    },
+    {
+      "name": "免费-线性",
+      "class": "iconfont iconmianfei-xianxing"
+    },
+    {
+      "name": "财务-线性",
+      "class": "iconfont iconcaiwu-xianxing"
+    },
+    {
+      "name": "尾程",
+      "class": "iconfont iconweicheng"
+    },
+    {
+      "name": "海关-线性",
+      "class": "iconfont iconhaiguan-xianxing"
+    },
+    {
+      "name": "国际",
+      "class": "iconfont icon-guoji"
+    },
+    {
+      "name": "国际-线性",
+      "class": "iconfont icon-guoji-xianxing"
+    },
+    {
+      "name": "客服-线性",
+      "class": "iconfont icon-kefu-xianxing"
+    },
+    {
+      "name": "服务",
+      "class": "iconfont icon-fuwu"
+    },
+    {
+      "name": "服务-线性",
+      "class": "iconfont icon-fuwu-xianxing"
+    },
+    {
+      "name": "线路",
+      "class": "iconfont iconxianlu"
+    },
+    {
+      "name": "关系-线性",
+      "class": "iconfont iconhezuoguanxi-xianxing"
+    },
+    {
+      "name": "资讯-线性",
+      "class": "iconfont iconxinwenzixun-xianxing"
+    },
+    {
+      "name": "框架-线性",
+      "class": "iconfont iconmobankuangjia-xianxing"
+    },
+    {
+      "name": "资源-线性",
+      "class": "iconfont iconziyuan-xianxing"
+    },
+    {
+      "name": "标准-线性",
+      "class": "iconfont iconbiaozhun-xianxing"
+    },
+    {
+      "name": "应用程序-线性",
+      "class": "iconfont iconyingyongchengxu-xianxing"
+    },
+    {
+      "name": "业务-线性",
+      "class": "iconfont iconyewu-xianxing"
+    },
+    {
+      "name": "账单-线性",
+      "class": "iconfont iconzhangdan-xianxing"
+    },
+    {
+      "name": "创建单据-线性",
+      "class": "iconfont iconchuangjiandanju-xianxing"
+    },
+    {
+      "name": "单据-线性",
+      "class": "iconfont icondanju-xianxing"
+    },
+    {
+      "name": "规则",
+      "class": "iconfont iconguize"
+    },
+    {
+      "name": "手册-线性",
+      "class": "iconfont iconziliaoshouce-xianxing"
+    },
+    {
+      "name": "优惠劵-线性",
+      "class": "iconfont iconyouhuijuan-xianxing"
+    },
+    {
+      "name": "积分-线性",
+      "class": "iconfont iconjifen-xianxing"
+    },
+    {
+      "name": "结算-线性",
+      "class": "iconfont iconjiesuan-xianxing"
+    },
+    {
+      "name": "物业-线性",
+      "class": "iconfont iconqiyeyuanquwuye-xianxing"
+    },
+    {
+      "name": "发送-线性",
+      "class": "iconfont iconjijianfasong-xianxing"
+    },
+    {
+      "name": "合同管理",
+      "class": "iconfont iconhetongguanli"
+    },
+    {
+      "name": "定制化管理",
+      "class": "iconfont icondingzhihuaguanli"
+    },
+    {
+      "name": "合同审核",
+      "class": "iconfont iconhetongshenhe"
+    },
+    {
+      "name": "部门管理",
+      "class": "iconfont iconbumenguanli"
+    },
+    {
+      "name": "财务管理",
+      "class": "iconfont iconcaiwuguanli"
+    },
+    {
+      "name": "客服管理",
+      "class": "iconfont iconkefuguanli"
+    },
+    {
+      "name": "司机端管理",
+      "class": "iconfont iconsijiduanguanli"
+    },
+    {
+      "name": "数据管理",
+      "class": "iconfont iconshujuguanli"
+    },
+    {
+      "name": "信用管理",
+      "class": "iconfont iconxinyongguanli"
+    },
+    {
+      "name": "业务管理",
+      "class": "iconfont iconyewuguanli"
+    },
+    {
+      "name": "企业管理",
+      "class": "iconfont iconqiyeguanli"
+    },
+    {
+      "name": "权限管理",
+      "class": "iconfont iconquanxianguanli"
+    },
+    {
+      "name": "用户管理",
+      "class": "iconfont iconyonghuguanli"
+    },
+    {
+      "name": "信息部审核",
+      "class": "iconfont iconxinxibushenhe"
+    },
+    {
+      "name": "认证车辆",
+      "class": "iconfont iconrenzhengcheliang"
+    },
+    {
+      "name": "信息部管理",
+      "class": "iconfont iconxinxibuguanli"
+    },
+    {
+      "name": "系统管理",
+      "class": "iconfont iconxitongguanli"
+    },
+    {
+      "name": "货单管理",
+      "class": "iconfont iconhuodanguanli1"
+    },
+    {
+      "name": "订单管理",
+      "class": "iconfont icondingdanguanli1"
+    },
+    {
+      "name": "仪表盘",
+      "class": "iconfont iconyibiaopan"
+    },
+    {
+      "name": "bianji",
+      "class": "iconfont iconbianji"
+    },
+    {
+      "name": "审核",
+      "class": "iconfont iconshenhe"
+    },
+    {
+      "name": "信息",
+      "class": "iconfont iconxinxi"
+    },
+    {
+      "name": "地址",
+      "class": "iconfont icondizhi"
+    },
+    {
+      "name": "pause",
+      "class": "iconfont iconpause"
+    },
+    {
+      "name": "email",
+      "class": "iconfont iconemail"
+    },
+    {
+      "name": "world",
+      "class": "iconfont iconworld"
+    },
+    {
+      "name": "message",
+      "class": "iconfont iconmessage"
+    },
+    {
+      "name": "graph",
+      "class": "iconfont icongraph"
+    },
+    {
+      "name": "date",
+      "class": "iconfont icondate"
+    },
+    {
+      "name": "calendar",
+      "class": "iconfont iconcalendar"
+    },
+    {
+      "name": "file",
+      "class": "iconfont iconfile"
+    },
+    {
+      "name": "camera",
+      "class": "iconfont iconcamera"
+    },
+    {
+      "name": "collect",
+      "class": "iconfont iconcollect"
+    },
+    {
+      "name": "clock",
+      "class": "iconfont iconclock"
+    },
+    {
+      "name": "mobil",
+      "class": "iconfont iconmobil"
+    },
+    {
+      "name": "printer",
+      "class": "iconfont iconprinter"
+    },
+    {
+      "name": "phone",
+      "class": "iconfont iconphone"
+    },
+    {
+      "name": "bar",
+      "class": "iconfont iconbar"
+    },
+    {
+      "name": "home",
+      "class": "iconfont iconhome"
+    },
+    {
+      "name": "transverse_bar",
+      "class": "iconfont icontransverse_bar"
+    },
+    {
+      "name": "chart_cyclic",
+      "class": "iconfont iconchart_cyclic"
+    },
+    {
+      "name": "compare_bar",
+      "class": "iconfont iconcompare_bar"
+    },
+    {
+      "name": "region",
+      "class": "iconfont iconregion"
+    },
+    {
+      "name": "polar",
+      "class": "iconfont iconpolar"
+    },
+    {
+      "name": "pile",
+      "class": "iconfont iconpile"
+    },
+    {
+      "name": "pin",
+      "class": "iconfont iconpin"
+    },
+    {
+      "name": "bar1",
+      "class": "iconfont iconbar1"
+    },
+    {
+      "name": "bubble",
+      "class": "iconfont iconbubble"
+    },
+    {
+      "name": "line",
+      "class": "iconfont iconline"
+    },
+    {
+      "name": "delete",
+      "class": "iconfont icondelete"
+    },
+    {
+      "name": "label",
+      "class": "iconfont iconlabel"
+    },
+    {
+      "name": "share",
+      "class": "iconfont iconshare"
+    },
+    {
+      "name": "set_up",
+      "class": "iconfont iconset_up"
+    },
+    {
+      "name": "rocket",
+      "class": "iconfont iconrocket"
+    },
+    {
+      "name": "01运输中、物流-线性",
+      "class": "iconfont iconyunshuzhongwuliu-xianxing"
+    },
+    {
+      "name": "02包裹、发货-线性",
+      "class": "iconfont iconbaoguofahuo-xianxing"
+    },
+    {
+      "name": "03拆包裹、取件-线性",
+      "class": "iconfont iconchaibaoguoqujian-xianxing"
+    },
+    {
+      "name": "04自提柜-线性",
+      "class": "iconfont iconzitigui-xianxing"
+    },
+    {
+      "name": "05采购-线性",
+      "class": "iconfont iconcaigou-xianxing"
+    },
+    {
+      "name": "06商品-线性",
+      "class": "iconfont iconshangpin-xianxing"
+    },
+    {
+      "name": "07配载、装车-线性",
+      "class": "iconfont iconpeizaizhuangche-xianxing"
+    },
+    {
+      "name": "08质量-线性",
+      "class": "iconfont iconzhiliang-xianxing"
+    },
+    {
+      "name": "09安全、保障-线性",
+      "class": "iconfont iconanquanbaozhang-xianxing"
+    },
+    {
+      "name": "10仓库、仓储-线性",
+      "class": "iconfont iconcangkucangchu-xianxing"
+    },
+    {
+      "name": "11中转站-线性",
+      "class": "iconfont iconzhongzhuanzhan-xianxing"
+    },
+    {
+      "name": "12库存-线性",
+      "class": "iconfont iconkucun-xianxing"
+    },
+    {
+      "name": "13末端网点-线性",
+      "class": "iconfont iconmoduanwangdian-xianxing"
+    },
+    {
+      "name": "14签收、审批通过-线性",
+      "class": "iconfont iconqianshoushenpitongguo-xianxing"
+    },
+    {
+      "name": "15拒签收-线性",
+      "class": "iconfont iconjuqianshou-xianxing"
+    }
+  ]
+}
